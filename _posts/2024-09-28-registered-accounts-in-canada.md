@@ -15,7 +15,7 @@ First off if you have made it this far congratulations! The most recent [data](h
 
 ### Contributing to RRSP and FHSA
 * **RRSP:** 18% of the income you earned last year up to a maximum ($31,560 for 2024)
-  * plus any existing room you have accrued in previous years. The easiest way for one to see their contribution limit is to [login to MyCRA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html)
+  * plus any existing room you have accrued in previous years. The easiest way for one to see their contribution limit is to [login to MyCRA](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals)
   * eligibility starts when you are 18
   * contribution deadline typically the last day of February of the following year
     * Ex/ February 29th 2024 was the deadline for contributing to an RRSP for the 2023 tax year.
