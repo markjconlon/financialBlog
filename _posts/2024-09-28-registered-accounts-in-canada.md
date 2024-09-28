@@ -104,10 +104,10 @@ The reasoning behind this is I am still in the career building stage meaning I s
 * I did not take the RRSP match immediately the first time that I was offered it. That resulted in me missing out on around $1000 of free money
   * This was 6 years ago and compounded at 7% means I have missed out on $1,500.73
     * [compound calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/)
-    * By the age of 65 that number will be over $10,000 😱
+    * By the age of 65 that number will be over $10,000. 😱
 * By starting with a 50/50 split in my first year of software development making $50,000 a year in 2018:
   * I used RRSP contribution room that would have been more efficient tax wise today.
-  * When we went to buy a house I didn't have access to as much money as I could have otherwise (HBP was at a cap of $35kat the time)
+  * When we went to buy a house I didn't have access to as much money as I could have otherwise (HBP was at a cap of $35kat the time).
 
 ## Final Thoughts 💭
 
