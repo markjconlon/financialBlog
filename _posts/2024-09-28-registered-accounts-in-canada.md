@@ -46,7 +46,7 @@ The main difference between these two is that TFSA contributions are **not** tax
 
 ### Contributing to TFSA:
 * **TFSA:** A flat amount is defined by the government each year and your total contribution room is dictated by summing the amounts each year since your 18th birthday.
-  * You can check your total available contribution room in the [MyCRA portal]((https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals.html))
+  * You can check your total available contribution room in the [MyCRA portal](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-individuals/account-individuals)
     * *I have noticed that it is rather slow to update and thus it is better to keep track of your deposits yourself.
   * Annual TFSA Dollar Limits:
 
