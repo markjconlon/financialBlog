@@ -5,10 +5,11 @@ categories: [informational,accounts,personal holdings]
 tags: [rrsp,investing,saving,taxes]
 published: true
 description: A journey through the holdings over a decade in my RRSP
+toc: true
 ---
 
 ## Starting Out
-Like most people my first foray into opening an RRSP to save for retirement came in the form of a mutual fund. Unfortunately, that mutual fund did not seem to perform well and I simply let it ride. That account was active for around 5 years until I closed it in 2021.
+Like most people my first foray into opening an RRSP to save for retirement came in the form of a mutual fund. Unfortunately, that mutual fund did not seem to perform well and I simply let it ride. That account was active for around 4 years until I closed it in 2021.
 
 ## DIY
 My first step into DIY investing was through a robo-advisor using the TFSA account type. I started out with an 8 out of 10 risk rating. A few months later I learned that during my 20s is the time to go as equity heavy as possible. In robo-advisor terms that meant to up the risk rating to 10 out of 10. *Side note* most robo-advisor offerings have the ability to go 100% equities if you reach out to support (typically the 10 out of 10 risk tolerance rating still leaves you  with some bonds, gold and/or treasuries).
@@ -22,6 +23,7 @@ Approximately 6 months after opening the robo TFSA and being un-impressed by the
 - **ZWC**
 - **CU**
 
+*note: [I review the registered account types in this post](/posts/registered-accounts-in-canada)*
 ## Pre House
 Fast forward into the future, I am in a steady relationship (with my now wife) and the year is 2020, specifically February of 2020. The news is all doom and gloom and both the Canadian and American governments are talking about shutting the country down. People are hogging toilet paper and canned goods. I am just about to be out of probation at my new job and living in a spacious 2 bedroom with a great friend all in for about $1300 a month. Little did I know that in a few short weeks my portfolio would plummet with the stock market crash of February 20, 2020.
 
@@ -53,7 +55,7 @@ In August of 2020 my partner and I decided to take the next step in our relation
   - **REI-UN**
     - *new*
 
-Socially the world was still in a weird place, some things were locked down and you were supposed to stay within the a defined social circle of 8 people. If you looked at any social media people with careers unaffected by the lock downs are thriving and the hospitality and travel industries are struggling. Luckily I fell into the former category and I have been able to secure a decent sized raise a work. The increased salary paired with the lower living expenses has my savings rate around 70%. At this point I finally felt that I had made it and I was rocketing closer to the [first of 5 steps to financial freedom](/posts/2024-09-30-5-steps-to-financial-freedom.md)
+Socially the world was still in a weird place, some things were locked down and you were supposed to stay within the a defined social circle of 8 people. If you looked at any social media people with careers unaffected by the lock downs are thriving and the hospitality and travel industries are struggling. Luckily I fell into the former category and I have been able to secure a decent sized raise a work. The increased salary paired with the lower living expenses has my savings rate around 70%. At this point I finally felt that I had made it and I was rocketing closer to the [first of 5 steps to financial freedom](/posts/5-steps-to-financial-freedom.md)
 
 In the spring of 2021 we made the decision to move out of our apartment into a place that we would buy and thus the great hunt began. Before liquidating under the RRSP home buyers plan I had the following stocks:
 - **RY**
@@ -97,10 +99,10 @@ I can't see myself changing any of these holdings for the forseeable future and 
 ## Fun Stats
 ### Biggest Winner
 - **VTI**, up 25%, all unrealized
-<!-- ticker / % gain / (un)realized -->
+
 ### Biggest Loser
 - **RYLD**, down 18%, realized
-<!-- ticker / % loss / realized -->
+
 ### Purchases / Sells / Contribution / Dividend Counts
 **Note:** These counts apply only to my Self Directed Accounts.
   - I have made **76** purchases across all of the tickers in my SD RRSP
