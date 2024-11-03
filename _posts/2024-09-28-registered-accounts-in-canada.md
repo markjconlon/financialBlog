@@ -25,6 +25,8 @@ First off if you have made it this far congratulations! The most recent [data](h
   * contribution deadline is the last day of the year
     * Ex/ December 31st 2023 for 2023.
 
+{% include adsensePost.html %}
+
 ### Withdrawing from RRSP and FHSA
 [A full breakdown can be found on the canadian governments site here.](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans.html)
 * **RRSP:** funds fall into two buckets "retirement" or one of the "tax free plans"
@@ -73,6 +75,8 @@ The main difference between these two is that TFSA contributions are **not** tax
     * Let's pretend the CRA sets the contribution amount to $8,000 in 2025
     * Starting January 1 2025 I now have $10,000 in contribution room
 
+{% include adsensePost.html %}
+
 ## How would I choose? 🤔
 
 * Nothing beats free money so if your employer has a matching program take full advantage and reach their maxing cap first.
@@ -90,6 +94,7 @@ The main difference between these two is that TFSA contributions are **not** tax
   * Back in the day I did 50/50 between RRSP and TFSA nothing wrong with that.
     * Looking backwards I wish I contributed more to my TFSA when I was starting out.
 
+{% include adsensePost.html %}
 
 ## What is my current breakdown? 💻
 
