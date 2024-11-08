@@ -1,10 +1,10 @@
 ---
 title: Stocks I Bought September 2024
 date: 2024-10-21 8:00:00 -0400
-categories: [stocks, informational]
+categories: [my_portfolio, stocks, informational]
 tags: [stocks, etfs, rrsp, dca, marketReview]
 published: true
-description: A review of the stock market and my moves (1)
+description: A review of the stock market and my moves - Month 1
 toc: true
 ---
 
@@ -55,6 +55,6 @@ Once that went through, it took about 2 days, I waited one more day before think
 
 ![image](/assets/2024-10-21-greed-fear-index.png)
 
-Also there is the old adage "Time in the market beats timing the market" I ended up buying **VTI** exclusively in my RRSP this month.
+Remember folks "Time in the market beats timing the market"
 
-That's all for this months review thank you for reading. I hope you enjoyed my thoughts and progress as I plan on making this a recurring post here.
+That's all for this months review thank you for reading. I hope you enjoyed my thoughts and progress this month!
