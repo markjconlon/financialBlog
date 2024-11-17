@@ -1,7 +1,7 @@
 ---
 title: Our Trip to New York City
 date: 2024-10-16 12:00:00 -0400
-categories: [recreation]
+categories: [Recreation]
 tags: [trips, vacation]
 published: true
 description: Our trip to the big apple, aka our treat of 2024

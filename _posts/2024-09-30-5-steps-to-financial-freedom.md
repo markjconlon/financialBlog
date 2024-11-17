@@ -1,7 +1,7 @@
 ---
 title: 5 Steps to Financial Freedom
 date: 2024-09-30 13:00:00 -0400
-categories: [informational,goal setting]
+categories: [Informational]
 tags: [investing,saving,fire]
 published: true
 description: My 5 goals along the path to Financial Freedom maybe even F.I.R.E.

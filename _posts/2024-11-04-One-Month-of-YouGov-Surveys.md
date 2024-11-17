@@ -1,7 +1,7 @@
 ---
 title: One Month of YouGov Surveys
 date: 2024-11-04 8:00:00 -0400
-categories: [informational]
+categories: [Informational, Side Hustles]
 tags: [alternative_income, surveys]
 published: true
 description: Trying out YouGov surveys for rewards for one Month

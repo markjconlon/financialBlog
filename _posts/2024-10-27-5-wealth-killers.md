@@ -1,7 +1,7 @@
 ---
 title: 5 Wealth Killers
 date: 2024-10-28 8:00:00 -0400
-categories: [informational]
+categories: [Informational]
 tags: [savings]
 published: true
 description: 5 Things to avoid to super charge your wealth building odyssey

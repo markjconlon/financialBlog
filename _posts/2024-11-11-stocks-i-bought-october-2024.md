@@ -1,7 +1,7 @@
 ---
 title: Stocks I Bought October 2024
 date: 2024-11-11 8:00:00 -0400
-categories: [my_portfolio, stocks, informational]
+categories: [My Portfolio]
 tags: [stocks, etfs, rrsp, dca, marketReview]
 published: true
 description: A review of the stock market and my moves - Month 2

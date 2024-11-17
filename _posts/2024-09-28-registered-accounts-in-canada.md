@@ -1,7 +1,7 @@
 ---
 title: Registered Accounts in Canada
 date: 2024-09-28 12:00:00 -0400
-categories: [informational,accounts]
+categories: [Informational]
 tags: [tfsa,fhsa,rrsp,investing,saving,taxes]
 published: true
 description: Which account is right for me? (RRSP or TFSA or FHSA)

@@ -1,7 +1,7 @@
 ---
 title: The Truth About Stock Splits
 date: 2024-10-14 12:00:00 -0400
-categories: [informational, stocks, etfs]
+categories: [Informational]
 tags: [investing, stocks, SCHD]
 published: true
 description: Are stock splits good, bad or meaningless?

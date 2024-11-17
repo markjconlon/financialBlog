@@ -1,7 +1,7 @@
 ---
 title: What's in my RRSP?
 date: 2024-10-07 12:00:00 -0400
-categories: [informational,accounts,personal holdings]
+categories: [My Portfolio]
 tags: [rrsp,investing,saving,taxes]
 published: true
 description: A journey through the holdings over a decade in my RRSP
