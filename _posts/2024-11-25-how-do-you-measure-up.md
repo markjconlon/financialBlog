@@ -1,6 +1,6 @@
 ---
 title: How Do You Measure Up 2024
-date: 2024-11-18 8:00:00 -0400
+date: 2024-11-25 8:00:00 -0400
 categories: [Informational]
 tags: [savings, investing, cost of living]
 published: true
