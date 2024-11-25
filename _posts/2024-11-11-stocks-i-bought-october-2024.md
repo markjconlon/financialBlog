@@ -70,6 +70,11 @@ RRSP buys were nice and simple this month. This month I purchased **VDY**. I was
 ![image](/assets/2024-11-11-rrsp.PNG)
 - *percentages are calculated based on current market value*
 
+### Dividend Increases and Decreases
+Note: Many of my holdings are in ETFs that have varying distributions from one to the next so I'm not expecting that much dividend growth here. (also hopefully zero decreases but I'm still holding AQN)
+- Increase on BANK from 0.10 -> 0.11
+- Decrease XEI from 0.113 -> 0.109
+
 ### Greed and Fear Index
 
 ![image](/assets/2024-11-11-fear-and-greed.PNG)

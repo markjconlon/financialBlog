@@ -55,6 +55,10 @@ Once that went through, it took about 2 days, I waited one more day before think
 
 ![image](/assets/2024-10-21-greed-fear-index.png)
 
+### Dividend Increases and Decreases
+Note: Many of my holdings are in ETFs that have varying distributions from one to the next so I'm not expecting that much dividend growth here. (also hopefully zero decreases but I'm still holding AQN)
+- Decrease on AQN from 0.108 -> 0.065 for the upcoming payouts in October and January. Really wish I sold this one
+
 Remember folks "Time in the market beats timing the market"
 
 That's all for this months review thank you for reading. I hope you enjoyed my thoughts and progress this month!
