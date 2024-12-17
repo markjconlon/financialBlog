@@ -75,9 +75,8 @@ Note: Many of my holdings are in ETFs that have varying distributions from one t
 - Increase on BANK from 0.10 -> 0.11
 - Decrease XEI from 0.113 -> 0.109
 
-### Greed and Fear Index
+### Fear and Greed Index
 
 ![image](/assets/2024-11-11-fear-and-greed.PNG)
-Also there is the old adage "Time in the market beats timing the market" I ended up buying **VTI** exclusively in my RRSP this month.
 
 That's all for this months review thank you for reading. I hope you enjoyed my thoughts and progress as I plan on making this a recurring post here.
