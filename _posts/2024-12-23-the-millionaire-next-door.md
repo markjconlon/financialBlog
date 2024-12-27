@@ -29,18 +29,18 @@ Personally I think this is a great simple way to get a baseline and see how you 
 
 ## 12 Commonalities of Successful Wealth Builders
 
-1) They live well below their means
-2) Belief that financial independence is more important than living the high life and showing off
-3) Their parents did not coddle them or provide much economic support
-4) They are deliberate and allocate their time, energy, and money efficiently in ways conducive to building wealth
-5) Their adult children are self-sufficient
-6) They are proficient in find their niche (when being entrepreneurial)
-7) They chose the right occupation for themselves.
-8) They save at least 15% of their income.
-9) 80% are first-generation millionaires
-10) The majority build frugal habits from the early years
-11) Millionaires of the survey are all investors (not all necessarily in stocks but most were)
-12) 97% are homeowners which I [wrote about more common stats a few weeks back here](https://financialfreedomanodyssey.com/posts/how-do-you-measure-up/#ages-55-to-64)
+1. They live well below their means
+2. Belief that financial independence is more important than living the high life and showing off
+3. Their parents did not coddle them or provide much economic support
+4. They are deliberate and allocate their time, energy, and money efficiently in ways conducive to building wealth
+5. Their adult children are self-sufficient
+6. They are proficient in find their niche (when being entrepreneurial)
+7. They chose the right occupation for themselves.
+8. They save at least 15% of their income.
+9. 80% are first-generation millionaires
+10. The majority build frugal habits from the early years
+11. Millionaires of the survey are all investors (not all necessarily in stocks but most were)
+12. 97% are homeowners which I [wrote about more common stats a few weeks back here](https://financialfreedomanodyssey.com/posts/how-do-you-measure-up/#ages-55-to-64)
 
 
 ## Quotes that spoke to me
