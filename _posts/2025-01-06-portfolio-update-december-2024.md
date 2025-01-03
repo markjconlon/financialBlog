@@ -95,12 +95,12 @@ Plenty of action here at year end:
 
 Love to see all of these dividend increases and special distributions. If there is one thing for me to complain about its that VTI's December 2024 distribution was lower than Dec. 2023 whereas all other quarters 2024 blew 2023 out of the water. Either way I'm happy to see the stock market doing well.
 
-### Fear and Greed Index
+## Fear and Greed Index
 ![image](/assets/2025/2025-01-06-fear-and-greed.PNG)
 
-### Wrap Up
+## Wrap Up
 
-That's all for this months review thank you for reading. I hope you enjoyed my expansions on the Dividend snowball and splitting up my two TFSA accounts. I hope you can check in next week for my 2025 financial plan!
+That's all for this months review thank you for reading. I hope you enjoyed my expansions on the Dividend snowball and splitting up my two TFSA accounts. I hope you can check in next week for building a financial plan from scratch in 2025!
 
 You can support my by:
 - [Subscribing to my YouTube Channel](https://www.youtube.com/@FinancialFreedomAnOdyssey?sub_confirmation=1)
