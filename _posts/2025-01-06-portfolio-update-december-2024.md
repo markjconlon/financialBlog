@@ -1,6 +1,6 @@
 ---
 title: Portfolio Update December 2024
-date: 2025-01-06 8:00:00 -0400
+date: 2025-01-06 7:00:00 -0400
 categories: [My Portfolio]
 tags: [stocks, etfs, rrsp, dca, marketReview]
 published: true
@@ -107,4 +107,4 @@ You can support my by:
 - [Using my WealthSimple referral link](https://my.wealthsimple.com/app/public/trade-referral-signup?code=VUGTXQ)
 - Simply continuing to read my weekly posts here.
 
-Cheers 🍻
+Cheers ☕
