@@ -102,7 +102,7 @@ Love to see all of these dividend increases and special distributions. If there 
 
 That's all for this months review thank you for reading. I hope you enjoyed my expansions on the Dividend snowball and splitting up my two TFSA accounts. I hope you can check in next week for building a financial plan from scratch in 2025!
 
-You can support my by:
+You can support me by:
 - [Subscribing to my YouTube Channel](https://www.youtube.com/@FinancialFreedomAnOdyssey?sub_confirmation=1)
 - [Using my WealthSimple referral link](https://my.wealthsimple.com/app/public/trade-referral-signup?code=VUGTXQ)
 - Simply continuing to read my weekly posts here.

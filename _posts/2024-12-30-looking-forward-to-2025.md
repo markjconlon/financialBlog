@@ -66,4 +66,4 @@ Health wise I had a bit of a rough year nothing major but a few incidents that p
 
 That's all for this week! I would like to wish you a Happy New Year and hope you join me back here in 2025 for more weekly posts.
 
-Cheers! 🍻
+Cheers! ☕

@@ -76,8 +76,8 @@ Combining the previous sections we are left for with the following plan / budget
 | **Line Item Name**                   | **Line Item Amount** |
 | ------------------------------------ | -------------------- |
 | Pay Cheques                          | $6,946.76            |
-| TFSA Contribution                    | $1,000.00            |
-| RRSP Contribution                    | $1,000.00            |
+| TFSA Contribution                    | -$1,000.00           |
+| RRSP Contribution                    | -$1,000.00           |
 | Rent (GTA AVG TREBB 1 Bedroom Condo) | -$2,499.00           |
 | Groceries                            | -$600.00             |
 | Personal Care                        | -$100.00             |
@@ -101,7 +101,7 @@ I would suggest making a spreadsheet and tracking all of your expenses for the e
 
 Now that I am married, we are paying off a mortgage, have a car etc, my approach to budgeting and financial planning has taken a slightly more complex form which I will reveal next week! Enjoy your week and I hope I see you here on Monday.
 
-You can support my by:
+You can support me by:
 - [Subscribing to my YouTube Channel](https://www.youtube.com/@FinancialFreedomAnOdyssey?sub_confirmation=1)
 - [Using my WealthSimple referral link](https://my.wealthsimple.com/app/public/trade-referral-signup?code=VUGTXQ)
 - Simply continuing to read my weekly posts here!
