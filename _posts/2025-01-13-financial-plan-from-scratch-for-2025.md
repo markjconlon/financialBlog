@@ -1,6 +1,6 @@
 ---
 title: Financial Plan from Scratch for 2025
-date: 2025-01-13 7:00:00 -0400
+date: 2025-01-06 7:00:00 -0400
 categories: [Planning]
 tags: [budgeting, portfolio]
 published: true
