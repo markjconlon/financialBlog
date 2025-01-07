@@ -8,6 +8,8 @@ description: A review of the stock market and my moves - Month 1
 toc: true
 ---
 
+[Video Blog](https://youtu.be/5ycSc1wpBoc)
+
 ## Major Indices VS My RRSP
 The four major indices were pretty much straight up this month with the low points coming in at the tail end of the first week. The S&Ps lowest close of the month was September 6th 2024 and the highest fell on the last day of the month.
 

@@ -8,6 +8,8 @@ description: Taking a look at my general strategy to financial planning.
 toc: true
 ---
 
+[Video Blog](https://youtu.be/AHuwyMyiUOU)
+
 ## Getting Started: The Financial Plan
 I remember reading Rich Dad Poor Dad many years ago and a quote that has always stuck out for me was "The rich pay themselves first and pay others second". So personally I like starting with mapping out what my income for the year is then apply my target savings percentage.
 

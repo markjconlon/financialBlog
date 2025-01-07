@@ -7,6 +7,8 @@ published: true
 description: My 5 goals along the path to Financial Freedom maybe even F.I.R.E.
 ---
 
+[Video Blog](https://youtu.be/2gI6uZ-Ky3g)
+
 ## Step 1: First $100,000
 You are now saving and hopefully investing your hard earned money in a reasonable fashion. For me that is mostly indexed ETF equities, an emergency fund in a High Interest Savings Account and a small amount (<5%) of riskier bets such as single tech stocks and crypto. This is amazing and you will need to keep it up until the arguably toughest step in this list... your first $100k
 

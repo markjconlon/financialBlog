@@ -8,6 +8,8 @@ description: Review on 2024 and Plan for 2025
 toc: true
 ---
 
+[Video Blog](https://www.youtube.com/watch?v=l4dzbqmifUs)
+
 Welcome back to the final post for the 2024. All in all it has been a pretty good year work wise and saving / investing wise.
 - Looking at the major indices' YTD at time of writing (Dec 27th, 2024)
   - S&P is up **25.43%**

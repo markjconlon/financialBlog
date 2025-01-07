@@ -8,6 +8,8 @@ description: A review of the stock market and my portfolio moves - Month 4
 toc: true
 ---
 
+[Video Blog](https://www.youtube.com/watch?v=ou7n9dR6yHU)
+
 Hello all! I have decided to rename the "Stocks I Bought Series" to a simple "Portfolio Update". Main reason is I think that better encapsulates the content. Without further ado let's take a look at the final month of 2024.
 
 ## Major Indices VS My RRSP

@@ -8,6 +8,8 @@ description: A review of the stock market and my moves - Month 2
 toc: true
 ---
 
+[Video Blog](https://youtu.be/060LkHS-ZYs)
+
 ## Major Indices VS My RRSP
 The month of October ended up being pretty uneventful in terms of the four major indices with the biggest gaining coming once again in the Nasdaq and the biggest loser being the Dow Jones Industrial.
 

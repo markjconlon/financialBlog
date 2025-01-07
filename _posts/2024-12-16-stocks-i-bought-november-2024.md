@@ -8,6 +8,8 @@ description: A review of the stock market and my moves - Month 3
 toc: true
 ---
 
+[Video Blog](https://youtu.be/l4dzbqmifUs)
+
 Hello all I just wanted to apologize for the lack of article last week and for my stocks I bought for November coming out slightly late. I was plagued with some health issues as well as it being an incredibly busy time of year at work and personally. With that being said let's dive in.
 
 ## Major Indices VS My RRSP
