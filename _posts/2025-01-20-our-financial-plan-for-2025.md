@@ -8,6 +8,8 @@ description: Taking a look at how we budget and financially plan as a couple
 toc: true
 ---
 
+[Video Blog](https://youtu.be/-eVhkZGT57A)
+
 ## Getting Started
 
 Back in early December I was out for drinks with friends (all of which are in a long term relationship some with kids some with out) and asked them how they handled their finances. The answers fell in to one of two camps.
@@ -94,7 +96,7 @@ Our tracker has taken a few forms over the years and our headings have changed b
 - Miscellaneous is going out for a meal or event or in their most extreme form travel
   - These can require extra contributions to joint account and I'll often leave a comment
 
-I've recently been thinking about sharing my tracker, perhaps making a digital product out of it. If that is something you may be interested in please leave a comment on the [UPDATE LINK: tracker video over on YouTube](https://www.youtube.com/@FinancialFreedomAnOdyssey). That video will also dig much deeper into the spread sheet taking a look at the formulas.
+I've recently been thinking about sharing my tracker, perhaps making a digital product out of it. If that is something you may be interested in please leave a comment on the [tracker video over on YouTube](https://youtu.be/-eVhkZGT57A). That video will also dig much deeper into the spread sheet taking a look at the formulas.
 
 That's all for this week folks, thanks for stopping by!
 
