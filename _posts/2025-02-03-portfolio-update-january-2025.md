@@ -8,7 +8,7 @@ description: A review of the stock market and my portfolio moves - Month 5
 toc: true
 ---
 
-[Video Blog]()
+[Video Blog Coming Soon Microphone Issues 😢]()
 
 ## Major Indices VS My RRSP
 New year same old RRSP, one of the items I have debated about is swapping VTI for VOO but historically small caps have outperformed and hopefully that will bring outsized returns for VTI this year. January is the first month VTI beat the S&P 500 Index since I started the blog.
