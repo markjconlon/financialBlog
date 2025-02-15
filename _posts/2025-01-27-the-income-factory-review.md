@@ -2,7 +2,7 @@
 title: The Income Factory Review
 date: 2025-1-27 7:00:00 -0400
 categories: [Books]
-tags: [books, audio]
+tags: [books]
 published: true
 description: A review of the The Income Factory by Steven Bavaria
 toc: true

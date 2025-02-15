@@ -1,7 +1,7 @@
 ---
 title: Looking Forward to 2025
 date: 2024-12-30 8:00:00 -0400
-categories: [yearly review]
+categories: [Yearly Review]
 tags:
 published: true
 description: Review on 2024 and Plan for 2025
