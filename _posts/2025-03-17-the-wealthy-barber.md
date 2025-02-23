@@ -1,6 +1,6 @@
 ---
 title: The Wealthy Barber
-date: 2025-02-24 7:00:00 -0400
+date: 2025-03-17 7:00:00 -0400
 categories: [Books]
 tags: [books, audio]
 published: true
@@ -12,7 +12,7 @@ toc: true
 
 Unfortunately there was no warm trip down south this time. I was simply exhausted from all of the videos and news around potential Tariffs as well as the other sad things that have happened over the last couple of weeks. I decided to go with another much talked about book in my financial circles. Mostly facebook groups but I have a few IRL friends interested in finances as well. Once again luckily for me it is available to Spotify Premium members so there's another subscription fee rationalization.
 
-![wealthy barber cover](/assets/2025/2025-02-24-wealthy-barber.PNG)
+![wealthy barber cover](/assets/2025/2025-03-17-wealthy-barber.PNG)
 
 ## My Thoughts
 
