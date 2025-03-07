@@ -8,7 +8,7 @@ description: Let's look at my single stocks and their future in my portfolio
 toc: true
 ---
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/m0jYhzFUMJ0)
 
 *Many of the follow stocks trade in USD and CAD I hold in CAD*
 
@@ -32,13 +32,13 @@ Even though it is by no means the same as AQN the price trend has been starting 
 
 While the earnings call is approaching March 24th 2025 I decided not to wait and did exit my position here. Overall I was up about 12% and decided to add the proceeds straight into VDY.
 
-THoughts on recent management decisions:
+Thoughts on recent management decisions:
 - Their August bid on 7/11 was exciting and stirred up a lot of publicity.
 - Personally I think their 22% increase in the fall on the original bid was excessive. Particularly as it meant they were essentially buying a same size (at least valuation wise) sized company.
   - Thus likely meaning high amounts of dilution and debt which based on my experience with AQN is not for me.
 
 
-## Shopfiy (SHOP) **HOLD**
+## Shopify (SHOP) **HOLD**
 My best performer, the stock that I started buying a soon as it went under $100 and I continued to buy it all the way down.
   - Main regret is that I didn't buy more.
 
