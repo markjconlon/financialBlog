@@ -8,6 +8,8 @@ description: A review of the Wealthy Barber
 toc: true
 ---
 
+[Video Blog](https://youtu.be/1ufAEGLbA4g)
+
 ## Picking this book
 
 Unfortunately there was no warm trip down south this time. I was simply exhausted from all of the videos and news around potential Tariffs as well as the other sad things that have happened over the last couple of weeks. I decided to go with another much talked about book in my financial circles. Mostly facebook groups but I have a few IRL friends interested in finances as well. Once again luckily for me it is available to Spotify Premium members so there's another subscription fee rationalization.

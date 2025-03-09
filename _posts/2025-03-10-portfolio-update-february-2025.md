@@ -8,15 +8,15 @@ description: A review of the stock market and my portfolio moves - Month 6
 toc: true
 ---
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/DlORNx68I5U)
 
 ## Major Indices VS My RRSP
 Well the majority of February was on an upwards trend, the last week sure turned that around! 
 
-What little gain VTI had on the S&P 500 last month it gave up this month 😢.
-- I'm still considering VOO over VTI.
+What little gain **VTI** had on the S&P 500 last month it gave up this month 😢.
+- I'm still considering **VOO** over **VTI**.
 
-Index wise TSX is the only index up and SCHD is the winner of my RRSP by a fair margin.
+Index wise TSX is the only index up and **SCHD** is the winner of my RRSP by a fair margin.
 
   | **Ticker** | **Index**  | **2025-02-01** | **2025-02-28** | **Percentage Gain** |
   | ---------- | ---------- | -------------- | -------------- | ------------------- |
@@ -75,7 +75,7 @@ Positions I am thinking about consolidating are:
 
 ### RRSP Buys
 
-This month I added to my XAW position to pull its weighting in advance of me liking buying a big chunk of SCHD in March.
+This month I added to my **XAW** position to pull its weighting in advance of me liking buying a big chunk of **SCHD** in March.
 
 ### RRSP Breakdown
 ![image](/assets/2025/2025-03-10-rrsp.PNG)
@@ -83,10 +83,10 @@ This month I added to my XAW position to pull its weighting in advance of me lik
 
 ### Dividend Increases and Decreases
 - Hamilton raised dividends for many of their ETFs including two in my portfolio
-  - HYLD 	0.143 -> 0.145
-  - HDIV 0.171 -> 0.172
-- QQCL was raised from 0.25 to 0.295 up an incredible 18%
-- Not necessarily a direct dividend increase or decrease but on March 21st 2025 SCHD will be reconstituting like they do every year
+  - **HYLD** 	0.143 -> 0.145
+  - **HDIV** 0.171 -> 0.172
+- **QQCL** was raised from 0.25 to 0.295 up an incredible 18%
+- Not necessarily a direct dividend increase or decrease but on March 21st 2025 **SCHD** will be reconstituting like they do every year
 
 ## Fear and Greed Index
 ![image](/assets/2025/2025-03-10-fear-and-greed.PNG)
