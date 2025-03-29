@@ -8,7 +8,7 @@ description: What is out? What is in? Reviewing the changes made to SCHD in 2025
 toc: true
 ---
 
-### Overview
+## Overview
 Before I dive straight into the reconstitution talk I think it will be a good idea to review the fund itself.
 
 It is one of the largest etfs offered by Charles Schwab sitting at almost $77 billion in total net assets which is nearly twice as much as its arguably most popular growth etf in current days SCHG.
@@ -19,7 +19,7 @@ In the funds prospectus it lists the Investment Object is to track as closely as
 
 For a deep dive into the fund feel free to [hop over to its site](https://www.schwabassetmanagement.com/products/schd)
 
-### Stats:
+## Stats:
  - Expense Ratio: 0.06%
  - Total Holdings: 101
  - PE: 17.74
@@ -35,7 +35,7 @@ For a deep dive into the fund feel free to [hop over to its site](https://www.sc
    - 10 year: 11.30%
    - Inception: 13.13%
 
-### Reconstitution
+## Reconstitution
 
 The reconstitution occurs annually on the 3rd Friday in March with the changes being announced the following Monday. Often the changes are predicted before hand, unfortunately this year things have been hush hush.
 
@@ -43,12 +43,12 @@ Now what actually happens and how are the changes decided upon. For this we will
 
 The specific index that SCHD is based on is Dow Jones U.S. Dividend 100 Index
 
-#### Stock Screens
+### Stock Screens
   - Minimum 10 consecutive years of dividend payments
   - Minimum FMC of US$ 500 million
   - Minimum three-month average volume traded of US$ 2 million
 
-#### Eligibility
+### Eligibility
 
 All of the stocks that pass the initial 3 screen listed above are then ranked via 4 criteria:
   - Free cash flow divided by total debt. Companies with zero total debt are ranked first.
@@ -57,9 +57,9 @@ All of the stocks that pass the initial 3 screen listed above are then ranked vi
   - Five-year dividend growth rate defined as:
     - Previous years dividend divided by the average of the past 5 years dividend minus 1
 
-#### The changes for 2025
+### The changes for 2025
 
-Now as I eluded to earlier the actual changes have not been implemented adn while there are plenty of people guessing over on reddit I am going to hold off and will update this post as soon as possible once they are released.
+Now as I eluded to earlier the actual changes have not been implemented adn while there are plenty of people guessing over on reddit I am going to hold off and will update this post as soon as possible once they are released. One thing to note is that the the index only contained 97 stocks on March 21st 2025 due to the acquisition of 3 companies on the index over the year.
 
 For now I will leave the [link to the annual reconstitution page](https://www.schwabassetmanagement.com/resource/annual-reconstitution)
 
