@@ -16,14 +16,14 @@ Well what can we say about the month of March besides we had a big old month of 
 
 Overall my ETFs were down slightly less than the indicies so thats something, VDY being the only one out of the bunch that was in the green.
 
-  | **Ticker** | **Index**  | **2025-02-01** | **2025-02-28** | **Percentage Gain** |
+  | **Ticker** | **Index**  | **2025-03-01** | **2025-03-31** | **Percentage Gain** |
   | ---------- | ---------- | -------------- | -------------- | ------------------- |
   | .INX       | S&P 500    | 5849.72        | 5611.85        | -4.07%              |
   | .IXIC      | Nasdaq 100 | 18350.19       | 17299.29       | -5.73%              |
   | .DJI       | Dow Jones  | 43191.24       | 42001.76       | -2.75%              |
   | TX60       | TSX 60     | 1510.14        | 1496.68        | -0.89%              |
 
-  | **Ticker** | **RRSP ETFs**   | **2025-02-01** | **2025-02-28** | **Percentage Gain** |
+  | **Ticker** | **RRSP ETFs**   | **2025-03-01** | **2025-03-31** | **Percentage Gain** |
   | ---------- | --------------- | -------------- | -------------- | ------------------- |
   | VDY        | FTSE Index CAD  | 49.3           | 49.51          | 0.43%               |
   | XAW        | Many Indexes    | 45.81          | 44.23          | -3.45%              |
