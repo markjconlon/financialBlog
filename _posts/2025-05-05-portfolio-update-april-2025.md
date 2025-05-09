@@ -8,7 +8,7 @@ description: A review of the stock market and my portfolio moves - Month 8
 toc: true
 ---
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/wWKai-psiUM)
 
 ## Major Indices VS My RRSP
 
@@ -29,7 +29,7 @@ April saw the fear uncertainty and doubt somewhat find an equilibrium. With the 
   | VTI        | Total US Market | 275.77         | 272.82         | -1.07%              |
 
 ## My Moves
-April was a very busy month which marks the 3rd highly active month for us. I decided to deploy some of my "safety" funds into the growth opportunities once again. I also sold a small chunk of CASH which is our joint savings / emergency fund. This will be needed as April and May are when many of our big annual expenses come due. Things like life insurance, property tax and it's also generally when we get our spring service down on our car. 
+April was a very busy month which marks the 3rd highly active month for us. I decided to deploy some of my "safety" funds into the growth opportunities once again. I also sold a small chunk of **CASH** which is our joint savings / emergency fund. This will be needed as April and May are when many of our big annual expenses come due. Things like life insurance, property tax and it's also generally when we get our spring service down on our car. 
 
 This year we were informed that our spark plugs needed to be switched which was an additional $400. It is kind of funny actually when I was at the dealership they said $150 in labour and then parts. I asked what the parts were worth and was told it would be 4 times anywhere from $15 to $55. Long story short ours were $51 each 😢. Oh well this is why we build some buffer into our budget.
 
@@ -72,7 +72,7 @@ Tax return wise I bought **SCHD** and a smaller amount of **VTI**. As teased ear
 - GOOG raised dividends 5% after a stellar Q1 2025 earnings 
 
 ## Fear and Greed Index
-We are back in the middle of fear and the AAII investor sentiment survey has ticked up a bit since the end of March beginning of April. NUmbers wise 61.9% of people surveyed were bearish for the weekending April 2nd 2025 and only 55.6% weekending April 23rd.
+We are back in the middle of fear and the AAII investor sentiment survey has ticked up a bit since the end of March beginning of April. Numbers wise 61.9% of people surveyed were bearish for the weekending April 2nd 2025 and only 55.6% weekending April 23rd.
 ![image](/assets/2025/2025-05-05-fear-and-greed.PNG)
 
 ## Wrap Up
