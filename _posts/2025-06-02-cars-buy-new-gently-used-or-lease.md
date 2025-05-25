@@ -57,16 +57,16 @@ Before I dive into the price differences I did a little digging to see what the 
 Now I'm sure you could shop around for rates but to keep it simple I decided to use the posted amounts and rates straight from Mazda Canada's website.
 
 First thing is I'm surprised at how little you seem to save buying used over new:
-- The 2024 option is 90% of the cost of the new version
-  - honestly I was thinking I would have seen about 80% of the price but this is a ver lightly used demo model
-- The 2023 option is 87.5% of the cost of the new version
+- The 2024 option is **90%** of the cost of the new version
+  - honestly I was thinking I would have seen about **80%** of the price but this is a ver lightly used demo model
+- The 2023 option is **87.5%** of the cost of the new version
   - I'd definitely pass on this one as it has 4x the mileage of the 2024 with barely any savings
 
 There is also the option of going outside of the dealership and potentially getting an even better deal but to keep this comparing apples to apples I will leave it at these few examples.
 
 While we are going to wait until at least the fault it never hurts to take a look and plan for the future.
 
-One thing I can say is that I would not take the leasing option as paying 78.7% of the sticker price and giving the car back after 5 years does not appeal to me.
+One thing I can say is that I would not take the leasing option as paying **78.7%** of the sticker price and giving the car back after 5 years does not appeal to me.
 
 I hope you enjoyed my overview of the 3 options and will really dig into the research if and when you go to buy your next vehicle.
 
