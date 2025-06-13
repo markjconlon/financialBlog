@@ -8,14 +8,15 @@ description: Is the age old adage true? Should you really pause investing during
 toc: true
 ---
 
+[WIP Video Blog]()
+
 The first thing I want to answer with the statement "Sell in May and Go Away" is if there is any actual truth behind the statement.
 
-According to Yale Hirsch’s Stock Trader’s Almanac, the Dow Jones Industrial Average (DJIA) has returned ~7% from November to April, and just ~2% from May to October. THey went back to as far as 1950 for this statistic.
+According to Yale Hirsch’s Stock Trader’s Almanac, the Dow Jones Industrial Average (DJIA) has returned ~7% from November to April, and just ~2% from May to October. They went back to as far as 1950 for this statistic.
 
 The S&P 500 shows a similar trend, where average returns from May to October are significantly lower than November through April.
 
 Interestingly this isn't only a Canada / US phenomenon but is also observed in Europe, Asia, and emerging markets.
-Don’t Let Summer Spending Wreck Your Investment Contributions
 
 Apparently the saying is often looked at from the other side and is called the **Halloween Effect**. Which I can surmise is more of a lead up to the **Santa Claus Rally** but that's just my opinion.
 
