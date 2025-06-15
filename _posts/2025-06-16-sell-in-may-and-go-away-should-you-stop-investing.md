@@ -8,7 +8,7 @@ description: Is the age old adage true? Should you really pause investing during
 toc: true
 ---
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/17Wf7FHR6Ms)
 
 The first thing I want to answer with the statement "Sell in May and Go Away" is if there is any actual truth behind the statement.
 
