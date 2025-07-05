@@ -12,9 +12,9 @@ toc: true
 
 ## Major Indices VS My RRSP
 
-Can't do anything but say this past monthly has been another up and to the right. Sure there was the odd speed bump in there but overall it has been fantastic. VDY outperformed the TSX60 likely do to the crazy performance of TD over the last couple of months. Glad I didn't sell my entire position a few months back. SCHD continues to disappoint, hopefully it will start to turn around.
+June has been another month of up and to the right. Sure there was the odd speed bump in there but overall it has been fantastic. **VDY** outperformed the **TSX60** likely do to the crazy performance of **TD** over the last couple of months. Glad I didn't sell my entire position a few months back. **SCHD** continues to disappoint, hopefully it will start to turn around.
 
-AAII sentiment survey has us up to 45% bullish and 33% bearish. Quite a change from back in April when we where 62% bullish. In terms of rate cuts I feel like both BoC and the FED are going to hold until September. 
+AAII sentiment survey has us up to 45% bullish and 33% bearish. This is quite a change from back in April when we where 62% bullish. In terms of rate cuts I feel like both BoC and the FED are going to hold until September. 
 
 
   | **Ticker** | **Index**  | **2025-06-01** | **2025-06-30** | **Percentage Gain** |
@@ -48,7 +48,6 @@ Biggest news is I decided to liquidate my entire **Telus** position at the begin
 
 ### TFSA Breakdown
 ![image](/assets/2025/2025-07-07-tfsa.PNG)
-  - *CASH is my wife and I's joint emergency fund.*
 
 I have liquidated or trimmed all positions that I have been seriously considering. There is always potential in the future for more but I think I will let my current positions stand.
 
@@ -68,7 +67,7 @@ I had to really scrape the bottom of the barrel to be able to afford the amount 
 - *percentages are calculated based on current market value, USD is converted to CAD based on google finance rate*
 
 ### Dividend Increases and Decreases
--  Nothing interest
+-  Nothing of interest this month
 
 ## Fear and Greed Index
 Looking at the fear and greed index we are pushing into extreme greed. I wonder how long this can hold... only time will tell.
