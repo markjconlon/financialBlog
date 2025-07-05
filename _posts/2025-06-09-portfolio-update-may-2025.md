@@ -56,7 +56,7 @@ Positions I am thinking about consolidating are down to one at the moment:
 As per usual in the months of May and November I typically add to my XAW position so its well ahead of the ex-dividend date since this is a semi-annual payer. This May was no different .. guess I'm predictable.
 
 ### RRSP Breakdown
-![image](/assets/2025/2025-05-05-rrsp.PNG)
+![image](/assets/2025/2025-06-06-rrsp.PNG)
 - *percentages are calculated based on current market value, USD is converted to CAD based on google finance rate*
 
 ### Dividend Increases and Decreases
