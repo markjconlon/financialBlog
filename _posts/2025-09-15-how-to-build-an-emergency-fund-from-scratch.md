@@ -1,8 +1,8 @@
 ---
 title: How to Build an Emergency Fund
 date: 2025-09-15 7:00:00 -0400
-categories: [Savings]
-tags: [lifestyle]
+categories: [Informational]
+tags: [lifestyle, savings]
 published: true
 description: A basic idea that could definitely hurt if you don't have one.
 toc: true

@@ -1,8 +1,8 @@
 ---
 title: How to Save Money Without Feeling Deprived
 date: 2025-09-01 7:00:00 -0400
-categories: [Savings]
-tags: [lifestyle]
+categories: [Informational]
+tags: [lifestyle, savings]
 published: true
 description: Little and big things matter when saving, let's take a look
 toc: true
