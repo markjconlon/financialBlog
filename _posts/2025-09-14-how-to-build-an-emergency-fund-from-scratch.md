@@ -1,12 +1,13 @@
 ---
 title: How to Build an Emergency Fund
-date: 2025-09-15 7:00:00 -0400
+date: 2025-09-14 7:00:00 -0400
 categories: [Informational]
 tags: [lifestyle, savings]
 published: true
 description: A basic idea that could definitely hurt if you don't have one.
 toc: true
 ---
+Quick note I am posting this article on a Sunday since I will be leaving tonight for a work trip. I'll be back next week at the regular time 😄!
 
 Two weeks ago we looked at the topic of saving money without feeling deprived. [(see article)](/posts/how-to-save-money-without-feeling-deprived) That is a perfect introduction into the first step of building an emergency fund ... having money left over at the end of the month to save. Sounds overly simplistic and it may be, but, it is also truthful.
 

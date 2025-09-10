@@ -8,6 +8,8 @@ description: Let's dive in and see how many I made in my 20s
 toc: true
 ---
 
+[Video Format](https://www.youtube.com/watch?v=BE1jm_6W8DM)
+
 Note these examples were all taken from chat gpt and I'll be leaving my notes in italics
 
 1. Living Without a Budget

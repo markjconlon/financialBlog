@@ -8,7 +8,7 @@ description: A review of the stock market and my portfolio moves - Month 12
 toc: true
 ---
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/QFhvgna7nEE)
 
 ## Major Indices VS My RRSP
 
