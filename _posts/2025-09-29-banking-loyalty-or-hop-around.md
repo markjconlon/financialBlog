@@ -1,6 +1,6 @@
 ---
 title: Banking Loyalty or Hop Around
-date: 2025-09-22 7:00:00 -0400
+date: 2025-09-29 7:00:00 -0400
 categories: [Informational]
 tags: [savings, investing]
 published: true
