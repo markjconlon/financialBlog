@@ -42,7 +42,7 @@ Another simple month for me here in September with a few purchases in the TFSA a
 
 
 ### RRSP Buys
-With all the dividends this month particularly from **SHCD** and **VTI** this month I decided to pickup a relatively large amount of **VTI** this month. Was a little nerve racking at all time highs, but, as mentioned earlier dollar cost averaging is still the name of my game
+With all the dividends this month particularly from **SHCD** and **VTI** this month I decided to pickup a relatively large amount of **VTI** this month. Was a little nerve racking at all time highs, but, as mentioned earlier dollar cost averaging is still the name of my game. This makes VTI over 50% of my RRSP for the first time. Will likely average into other holdings for the rest of the year.
 
 - Bought
   - **VTI** with a combination of divid
