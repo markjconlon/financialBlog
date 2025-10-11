@@ -8,7 +8,7 @@ description: A review of the stock market and my portfolio moves - Month 13
 toc: true
 ---
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/gv9uFcGIcIY)
 
 ## Major Indices VS My RRSP
 
@@ -45,7 +45,7 @@ Another simple month for me here in September with a few purchases in the TFSA a
 With all the dividends this month particularly from **SHCD** and **VTI** this month I decided to pickup a relatively large amount of **VTI** this month. Was a little nerve racking at all time highs, but, as mentioned earlier dollar cost averaging is still the name of my game. This makes VTI over 50% of my RRSP for the first time. Will likely average into other holdings for the rest of the year.
 
 - Bought
-  - **VTI** with a combination of divid
+  - **VTI** with a combination of dividends and monthly contribution
 
 ### RRSP Breakdown
 ![image](/assets/2025/2025-10-06-rrsp.PNG)
