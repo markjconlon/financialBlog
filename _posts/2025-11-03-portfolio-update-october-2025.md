@@ -10,7 +10,7 @@ toc: true
 
 October has come and gone and so has Halloween, market wise it was far from a scary one. I guess it could be scary if you are in the bubble camp I however am not. We had a record 110 trick or treaters just last night and it was great to see all of the costumes on the little ones and so many Blue Jays jerseys on the parents. Game 7 is tonight, I can't wait and am really hoping for a Jays victory.
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/gYw7ZC9akB8)
 
 ## Major Indices VS My RRSP
 
