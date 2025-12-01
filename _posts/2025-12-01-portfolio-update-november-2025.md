@@ -10,7 +10,7 @@ toc: true
 
 As December is upon us today I am wondering if Santa will come this year. November was relatively flat overall with a small pullback in the middle of the month before rallying into the end. Many "financial experts" have recently mentioned it will all come down to what the FED does here next week. Before then we would like to see BTC to continue to rally although if history repeats itself it should go down for the next year.
 
-[WIP Video Blog]()
+[Video Blog](https://youtu.be/dpfAuyPvuJk)
 
 ## Major Indices VS My RRSP
 
@@ -65,8 +65,7 @@ This month we went back to the spousal RRSP and stuck with VFV. Starting to feel
 - *percentages are calculated based on current market value, USD is converted to CAD based on google finance rate*
 
 ### Spousal RRSP Breakdown
-![image](/assets/2025/2025-12-01-sposual-rrsp.PNG)
-
+![image](/assets/2025/2025-12-01-spousal-rrsp.PNG)
 ### Dividend Increases and Decreases
 After a big month in terms of dividend increases this month is pretty quiet.
 
