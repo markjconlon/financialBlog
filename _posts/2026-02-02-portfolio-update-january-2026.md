@@ -12,21 +12,21 @@ New year new me, well hopefully not too much of a new me portfolio wise. Althoug
 
 ## Major Indices VS My RRSP
 
-Green market to start off the here across the board with the TSX60 leading the charge once again. Could the TSX60 come out on top for back to back years? I'm betting not but time will tell.
+Green market to start off the here across the board with the TSX60 trailing for the first month in awhile.
 
   | **Ticker** | **Index**  | **2026-01-01** | **2026-01-31** | **Percentage Gain** |
   | ---------- | ---------- | -------------- | -------------- | ------------------- |
-  | .INX       | S&P 500    | 5868.55        | 6040.53        | 2.93%               |
-  | .IXIC      | Nasdaq 100 | 19280.79       | 19627.44       | 1.80%               |
-  | .DJI       | Dow Jones  | 42392.27       | 44544.66       | 5.08%               |
-  | TX60       | TSX 60     | 1491.19        | 1540.76        | 3.32%               |
+  | .INX       | S&P 500    | 6858.47        | 6976.44        | 1.72%               |
+  | .IXIC      | Nasdaq 100 | 23235.63       | 23592.11       | 1.53%               |
+  | .DJI       | Dow Jones  | 48382.39       | 49407.66       | 2.12%               |
+  | TX60       | TSX 60     | 1870.52        | 1869.95        | -0.03%              |
 
-  | **Ticker** | **RRSP ETFs**  | **2025-01-01** | **2025-01-31** | **Percentage Gain** |
+  | **Ticker** | **RRSP ETFs**  | **2026-01-01** | **2026-01-31** | **Percentage Gain** |
   | ---------- | -------------- | -------------- | -------------- | ------------------- |
-  | VDY        | FTSE Index CAD | 49.44          | 50.24          | 1.62%               |
-  | XAW        | Many Indexes   | 44.7           | 46.64          | 4.34%               |
-  | SCHD       | Subset of Dow  | 27.26          | 27.83          | 2.09%               |
-  | VTI        | Total US       | 289.26         | 298.6          | 3.23%               |
+  | VDY        | FTSE Index CAD | 62.45          | 63.6           | 1.84%               |
+  | XAW        | Many Indexes   | 51.53          | 52.86          | 2.58%               |
+  | SCHD       | Subset of Dow  | 27.73          | 30             | 8.19%               |
+  | VTI        | Total US       | 336.31         | 342.48         | 1.83%               |
 
 ## My Moves
 Made some big moves this month original intention was to reduce number of holdings but I ended up adding more. 😅
