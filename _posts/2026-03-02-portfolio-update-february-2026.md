@@ -8,11 +8,11 @@ description: A review of the stock market and my portfolio moves - Month 18
 toc: true
 ---
 
-Second month down and the first month I have been back to work. It has been more challenging for sure to stay focussed between balancing a newborn, watching the wild swings in the market and dialing in for work. Perhaps I should be ignoring the wild swings and remove my single stocks like the majority of my friends. In actuality I picked up another single stock 😅.
+Second month down and the first month I have been back to work. It has been more challenging for sure to stay focussed between balancing a newborn, watching the wild swings in the market and dialing in for work. Perhaps I should be ignoring the wild swings and remove my single stocks like the majority of my friends. In actuality I picked up another single stock and exited one ETF 😅.
 
 ## Major Indices VS My RRSP
 
-The indices across the board are all slightly down since the beginning of the month... oh wait amount look at us go up here north of the border with the TSX60 up just over a half percent. I'm feeling like a broken record here but really how long can we keep this up? Was last month just a bump in the road?
+The indices across the board are all slightly down since the beginning of the month... oh wait a moment look at us go up here north of the border with the TSX60 up **5.5%**. I'm feeling like a broken record here but really how long can we keep this up? Was last month just a bump in the road?
 
   | **Ticker** | **Index**  | **2026-02-01** | **2026-02-27** | **Percentage Gain** |
   | ---------- | ---------- | -------------- | -------------- | ------------------- |
@@ -70,7 +70,7 @@ Honestly we couldn't decide what to buy in the spousal RRSP, BANK has been killi
 
 ### Dividend Increases and Decreases
 - **VDY** First month since September with a distribution in the $0.20 range 🤞
-- **CASH** 0.097 -> 0.071 Tough to see this **1.7%** given my HISA is **2.25%**
+- **CASH** 0.097 -> 0.071 Tough to see this at **1.7%** given my HISA is **2.25%**
   - **PSA** is doing better at **2.1%** currently (my wife has some joint money in that ETF in her TFSA) 
   - may have to slowly transition out of CASH throughout the year as I earn money to replace it with in the HISA. My goal is to not take any withdrawals out of my TFSA moving forward.
 
