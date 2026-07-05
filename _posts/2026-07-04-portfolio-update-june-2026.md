@@ -29,7 +29,12 @@ Not a whole lot going on this month the Nasdaq gave a bit back, DOW Jones gained
   | VTI        | Total US       | 373.4          | 370.04         | -0.90%              |
 
 ## My Moves
-I decided to de-risk a little bit this month and take a large gain. I trimmed half of my **AMD** position and exited **HHIS**. Moving forward for the rest of the year I will likely be taking a pause from buys with new cash or at least lower the amount as we are looking to purchase a larger home. Arguably I shouldn't have deployed fresh cash this month however I still want to avoid selling off any equities if possible. RESP will be the only exception with small contributions each month to capitalize the government grants
+I decided to de-risk a little bit this month and take a large gain. I trimmed half of my **AMD** position and exited **HHIS**. Moving forward for the rest of the year I will likely be taking a pause from buys with new cash or at least lower the amount as we are looking to purchase a larger home. Arguably I shouldn't have deployed fresh cash this month however I still want to avoid selling off any equities if possible.
+
+The two exceptions will be:
+- RESP small contributions each month to maximize the grant ($500) requiring ($2500) contributions in the year.
+- Work RRSP for both the match and pre-tax deductions.
+
 
 ### TFSA Buys & Sells
   - **SOLD**
