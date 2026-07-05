@@ -45,7 +45,7 @@ The month of November was a standard month investing wise for me. I'm still cons
     - by reinvesting all of the dividends from other holdings for the month
 
 ### TFSA Breakdown
-![image](/assets/2024-12-16-tfsa.PNG)
+![image](/assets/2024/2024-12-16-tfsa.PNG)
 - *percentages are calculated based on current market value*
 - *the entirety of BANK was purchased with a line of credit offer. It has worked out well for me but I would not recommend. I will re-evaluate in Feb 2025 when offer expires*
 - *SPLT is my wife and I's joint emergency fund.*
@@ -61,7 +61,7 @@ Positions I am thinking about consolidating are:
 Another nice and simple month where I purchased **XAW**. Like last month I was definitely glad that it wasn't a month where I needed to exchange into USD. At time of writing google is showing **$1.43** CAD per USD meaning you'd likely pay closer to **$1.45** without the use of Norbert's Gambit.
 
 ### RRSP Breakdown
-![image](/assets/2024-12-16-rrsp.PNG)
+![image](/assets/2024/2024-12-16-rrsp.PNG)
 - *percentages are calculated based on current market value*
 
 ### Dividend Increases and Decreases
@@ -70,6 +70,6 @@ Another nice and simple month where I purchased **XAW**. Like last month I was d
 I am hoping that our friends at Canoe (**EIT.UN**) will increase their distribution / dividend but not holding my breath
 
 ### Fear and Greed Index
-![image](/assets/2024-12-16-fear-and-greed.PNG)
+![image](/assets/2024/2024-12-16-fear-and-greed.PNG)
 
 That's all for this months review thank you for reading. I hope you enjoyed my thoughts and progress as I plan on making this a recurring post here.

@@ -55,7 +55,7 @@ Before I made my RRSP purchase I thought about how potentially delaying the buy 
 Once that went through, it took about 2 days, I waited one more day before thinking to myself this year we are in entirely different financial conditions. This is easily shown by a quick glance at the old greed fear index.
  - this year we are at 68 or the high end of greed and last year we were fearful borderline extreme fear
 
-![image](/assets/2024-10-21-greed-fear-index.png)
+![image](/assets/2024/2024-10-21-greed-fear-index.png)
 
 ### Dividend Increases and Decreases
 Note: Many of my holdings are in ETFs that have varying distributions from one to the next so I'm not expecting that much dividend growth here. (also hopefully zero decreases but I'm still holding AQN)

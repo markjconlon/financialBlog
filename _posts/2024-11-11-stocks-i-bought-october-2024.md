@@ -56,7 +56,7 @@ As I have mentioned in the past my TFSA has a significant portion in income focu
      -  the final purchase for my speculation in MJ stocks
 
 ### TFSA Breakdown
-![image](/assets/2024-11-11-tfsa.PNG)
+![image](/assets/2024/2024-11-11-tfsa.PNG)
 - *percentages are calculated based on current market value*
 - *the entirety of BANK was purchased with a line of credit offer. It has worked out well for me but I would not recommend. I will re-evaluate in Feb 2025 when offer expires*
 - *SPLT is my wife and I's joint emergency fund.*
@@ -69,7 +69,7 @@ My TFSA is far more complicated than my RRSP and I think ultimately I would like
 RRSP buys were nice and simple this month. This month I purchased **VDY**. I was definitely glad that it wasn't a month where I was looking to buy a US listed position as our dollar has been extremely weak. At time of writing google is showing **$1.39** CAD per USD meaning you'd likely pay closer to **$1.41** without the use of Norbert's Gambit.
 
 ### RRSP Breakdown
-![image](/assets/2024-11-11-rrsp.PNG)
+![image](/assets/2024/2024-11-11-rrsp.PNG)
 - *percentages are calculated based on current market value*
 
 ### Dividend Increases and Decreases
@@ -79,6 +79,6 @@ Note: Many of my holdings are in ETFs that have varying distributions from one t
 
 ### Fear and Greed Index
 
-![image](/assets/2024-11-11-fear-and-greed.PNG)
+![image](/assets/2024/2024-11-11-fear-and-greed.PNG)
 
 That's all for this months review thank you for reading. I hope you enjoyed my thoughts and progress as I plan on making this a recurring post here.

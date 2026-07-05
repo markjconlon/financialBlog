@@ -14,7 +14,7 @@ We were fortunate the week before last to take a quick trip down south to enjoy 
 
 I had recently heard two books floating around the first which was this book and the second being Passive Income Factory. A quick look at Spotify and luckily enough the Millionaire Next Door was on there for premium members. A nice and easy choice.
 
-![image](/assets/2024-12-23-the-millionaire-next-door.PNG)
+![image](/assets/2024/2024-12-23-the-millionaire-next-door.PNG)
 
 ## My Thoughts
 

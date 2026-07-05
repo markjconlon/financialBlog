@@ -38,7 +38,7 @@ I decided to de-risk a little bit this month and take a large gain. I trimmed ha
     - **FOR**
       - 90% **VFV**
       - 10% **HXQ**
-  - **BUY**
+  - **BOUGHT**
     - **META** 
 
 **AMD** and **GOOG** are still being actively monitored for more trimming or exiting, I have been holding both since end of February 2026. **CRM**, **META** and **SHOP** are holds until they go for another run as I believe SAAS should within the next year. **CRM** and **META** are new buys for me this year and **SHOP** I first bought in April of 2022 all the way down in 2023 and haven't bought any since.
@@ -50,7 +50,7 @@ I decided to de-risk a little bit this month and take a large gain. I trimmed ha
 ### RRSP Buys & Sells
 This month I made my classic **RRSP** buy for the month of June... **VTI**
 
-- **BUY**
+- **BOUGHT**
   - **VTI**
 
 ### My RRSP Breakdown
@@ -66,7 +66,7 @@ This month I made my classic **RRSP** buy for the month of June... **VTI**
 - **CASH** 0.075 -> 0.072
 
 ## Fear and Greed Index
-The CNN Fear and Greed Index is hovering around 32, signaling a "fear" state in the broader stock market. I also just discovered that there is a Crypto Fear and Greed Index. The Crypto one is sitting at 27 currently just above the extreme fear territory over the last few weeks. 
+The CNN Fear and Greed Index is hovering around 32, signaling a "fear" state in the broader stock market. I also just discovered that there is a Crypto Fear and Greed Index. The Crypto one is sitting at 27 currently just above the extreme fear territory it has been in for the last few weeks. 
 
 ![image](/assets/2026/2026-07-04-fear-and-greed.PNG)
 

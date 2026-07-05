@@ -82,7 +82,7 @@ Thirdly is in PII spread out through all of the subcategories except the single 
 
 Finally I still have a handful of Individual Stocks, most of which I would like to exit to simplify my portfolio.
 
-![image](/assets/2024-11-18-portfolio-by-type.PNG)
+![image](/assets/2024/2024-11-18-portfolio-by-type.PNG)
 
 Thank you for reading and I hope you enjoyed my rundown of the 3 investing styles. If you would like to support me the easiest way is to [subscribe over on my youtube channel](https://www.youtube.com/@FinancialFreedomAnOdyssey?sub_confirmation=1) or simply return here every Monday for my next blog post.
 

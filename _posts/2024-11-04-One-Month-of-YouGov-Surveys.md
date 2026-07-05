@@ -16,11 +16,11 @@ Their mission is to supply a steady stream of accurate data and insight into wha
 One thing to be careful of with this type of thing is what is a scam and what is real. I can confirm that YouGov is not a scam and they do pay out rewards as I have collected from them twice now.
 
 ## Rewards
-![image](/assets/2024-11-04-yougov.PNG)
+![image](/assets/2024/2024-11-04-yougov.PNG)
 In order to get feedback and to collect data they offer many different rewards. Personally I have used the bank transfer and the amazon gift card so far and it was a painless experience.
 
 Currently I am waiting until I have enough to cash out $50 for a bank transfer.
-![image](/assets/2024-11-04-my-yougov.PNG)
+![image](/assets/2024/2024-11-04-my-yougov.PNG)
 
 ## How do you earn the rewards?
 YouGov is mostly through simple surveys but sometimes there is followup a short period later that will give you bonus rewards. Personally I have just stick to the surveys even if I was invited to take things further. A recent one I was invited to offered a large point bonus but it required signing up for a non-free service which defeats the purpose for me.
@@ -46,7 +46,7 @@ Here's my breakdown for the month of October
 
 Assuming I am going to convert at the $50 for 55000 points I spent 52 mins for approximately $4. So not something that you can quit your day job for but if you are sitting waiting for a bus or just killing time doing a quick survey on your phone isn't the worst way to spend your time.
 
-![image](/assets/2024-11-04-yougov-history.PNG)
+![image](/assets/2024/2024-11-04-yougov-history.PNG)
 
 One thing to note is that unlike some other survey sites such as Swagbucks there is rarely more than 1 survey every couple of days on YouGov. Speaking of Swagbucks I decided to see what spending the same amount of time there would get me.
 
@@ -75,7 +75,7 @@ Using the $50 conversion to keep it similar with the YouGov calculation:
 - They do sometimes have sales and the current one is $50 for 3900 points
   - Even with the improved conversion rate $2.63 is still much worse than YouGov
 
-![image](/assets/2024-11-04-swagbucks.PNG)
+![image](/assets/2024/2024-11-04-swagbucks.PNG)
 
 I'm not going to lie I was pretty disappointed with the number of surveys that I started and did not qualify for. My profile is filled out so either they don't ask enough questions or they aren't pre-filtering the surveys.
 

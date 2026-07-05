@@ -12,7 +12,7 @@ description: My 5 goals along the path to Financial Freedom maybe even F.I.R.E.
 ## Step 1: First $100,000
 You are now saving and hopefully investing your hard earned money in a reasonable fashion. For me that is mostly indexed ETF equities, an emergency fund in a High Interest Savings Account and a small amount (<5%) of riskier bets such as single tech stocks and crypto. This is amazing and you will need to keep it up until the arguably toughest step in this list... your first $100k
 
-![image](/assets/first100k.png)
+![image](/assets/2024/first100k.png)
 
 Now what is it that makes the first $100k so difficult to achieve? I plan on making a blog post purely diving into this topic but it essentially boils down to two things:
   1. You need to build the habit of saving as much as you can each month (and not spending it once you hit say $50k on a new car).
@@ -33,18 +33,18 @@ Early on in my career shortly after I moved to the city of Toronto a good friend
 #### $500 a month 8% interest compounded annually
 Time to bust out one of my favorite tools the [compound interest calculator](https://www.getsmarteraboutmoney.ca/calculators/compound-interest-calculator/). Let's say you are like my friend and are able to save an extra $500 a month. You will be in your 11th year when you hit the elusive $100k. You have contributed about two thirds of the value and earned only one third in interest.
 
-![image](/assets/500aMonth8Percent.png)
+![image](/assets/2024/500aMonth8Percent.png)
 
 However to get your second $100k for a total of $200k it will only take 6 years.
   - **Note:** If we were to continue the chart above to reach 200k we would be in year 17 and would have contributed 50% and earned 50% in interest.
 
-![image](/assets/second500aMonthat8Percent.png)
+![image](/assets/2024/second500aMonthat8Percent.png)
 
 
 #### $1000 a month 8% interest compounded annually
 Let's take a look at if you were able to increase your income by $500 a month and save $500 a month.
 
-![image](/assets/1000aMonthAt8Percent.png)
+![image](/assets/2024/1000aMonthAt8Percent.png)
 
 So if we doubled our monthly contributions it would take 60% of the time to reach $100k and we would be 75% contributions and 25% interest.
 
@@ -54,13 +54,13 @@ This step is the definition of "Money makes Money" and my current goal. Over the
 
 Looking at the example from above $500 a month making 8% compounded annually, this will happen in your 10th year.
 
-![image](/assets/interestEqualsInvestment.png)
+![image](/assets/2024/interestEqualsInvestment.png)
 
 I typically like to use 8% as an average return to be slightly conservative but let's say you were 100% invested in [VOO](https://investor.vanguard.com/investment-products/etfs/profile/voo#performance-fees) over the last 10 years you would have had **an average return of 12.94%** at time of writing.
 
 $500 a month making 12.94% compounded annually, this will happen in the 7th year.
 
-![image](/assets/interestEqualsInvestment2.png)
+![image](/assets/2024/interestEqualsInvestment2.png)
 
 ## Step 3: First liquid $1,000,000
 

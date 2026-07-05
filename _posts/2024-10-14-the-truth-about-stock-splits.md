@@ -12,7 +12,7 @@ toc: true
 Investopedia defines a stock split as:
   - A corporate action in which a company issues additional shares to shareholders, increasing the total by the specified ratio based on the shares they held previously
 
-![image](/assets/2024-10-14-toronto-skyline.jpg)
+![image](/assets/2024/2024-10-14-toronto-skyline.jpg)
 
 ## How does a stock split practically work?
 I think the easiest way to explain stock splitting with an example. Let's say we have a company called Acme Inc. It has a market cap of $100,000,000. They have 10,000 outstanding shares which gives us
