@@ -57,6 +57,7 @@ This month I liquidated another position for redistribution... any guesses?
 
 ### RRSP Buys & Sells
 No manual BUYs were made this month for the first time since the start of this update series!
+- However I did notice that my QQQM value was incorrect but that has now been fixed 🎉
 
 - **BOUGHT**
   - N/A
