@@ -29,7 +29,7 @@ I might as well leave the same comment as last month all in all preety quiet wit
   | VTI        | Total US       | 369.27         | 368.21         | -0.90%              |
 
 ## My Moves
-As mentioned in previouss updates I have scaled back deploying new cash in my portfolios. The two exceptions are:
+As mentioned in previous updates I have scaled back deploying new cash in my portfolios. The two exceptions are:
 - RESP small contributions each month to maximize the grant ($500) requiring ($2500) contributions in the year.
 - Work RRSP for both the match and pre-tax deductions.aside from my work RRSP, RESP and reinvesting dividends/
 
@@ -40,7 +40,7 @@ This month I liquidated another position for redistribution... any guesses?
 ### TFSA Buys & Sells
   - **SOLD**
     - **HDIV** The second last covered call etf in the portfolio. The last one is **BANK** but I have absolutely zero plans of liquidating **BANK**
-      - **FOR**
+      - **For:**
         - 85% **VDY**
         - 15% **HXQ**
   - **BOUGHT**

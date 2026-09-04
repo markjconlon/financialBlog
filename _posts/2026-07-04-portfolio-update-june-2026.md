@@ -40,7 +40,7 @@ The two exceptions will be:
   - **SOLD**
     - **AMD** (First bought February 26th 2025)
     - **HHIS** (First bought December 11th 2025)
-    - **FOR**
+    - **For:**
       - 90% **VFV**
       - 10% **HXQ**
   - **BOUGHT**
