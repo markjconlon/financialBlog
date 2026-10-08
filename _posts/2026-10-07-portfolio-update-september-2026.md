@@ -1,6 +1,6 @@
 ---
 title: Portfolio Update September 2026
-date: 2026-08-07 7:00:00 -0400
+date: 2026-10-07 7:00:00 -0400
 categories: [My Portfolio]
 tags: [stocks, etfs, rrsp, dca, marketReview]
 published: true
