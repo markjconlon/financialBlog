@@ -59,7 +59,7 @@ As mentioned earlier I did half a normal contribution this month as I battle bet
 - **BOUGHT**
   - 60% **VFV**
   - 20% **QQCL**
-  - 20% **BANK
+  - 20% **BANK**
 
 ### My RRSP Breakdown
 ![image](/assets/2026/2026-09-04-rrsp.PNG)
